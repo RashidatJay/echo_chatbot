@@ -1,0 +1,5 @@
+print('Hello, welcome to my chatbot')
+print('My chatbot will repeat whatever you say')
+name=input('Enter your here name to begin:\n')
+stuff_to_echo=input(name+' '+'enter anything you would like my chatbot to repeat:\n')
+print('You said:'+ stuff_to_echo)
